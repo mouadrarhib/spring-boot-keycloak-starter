@@ -210,6 +210,44 @@ docker pull ghcr.io/<your-gh-username>/spring-boot-keycloak-starter:latest
 
 ---
 
+
+---
+
+## Screenshots & Diagrams
+
+Below are some helpful images to better understand the project:
+
+### Public Endpoint
+![Public Endpoint](docs/img/public%20endpoint.png)
+
+### User Role
+![User Role](docs/img/user%20role.png)
+
+### Admin Role
+![Admin Role](docs/img/admin%20role.png)
+
+### Token Flow
+![Token](docs/img/token.png)
+
+### JWT Debugger
+![JWT Debugger](docs/img/Jwt%20debugger.png)
+
+### Swagger UI
+![Swagger UI](docs/img/swagger.png)
+
+### Database Schema
+![Schema](docs/img/Schema.png)
+
+### Docker Desktop
+![Docker Desktop](docs/img/Docker%20desktop.png)
+
+### Code Sample
+![Code](docs/img/code.png)
+
+### GitHub Actions Workflow
+![GitHub Actions](docs/img/github%20actions.png)
+
+
 ## License
 
 This project is licensed under the MIT License.
